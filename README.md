@@ -6,6 +6,7 @@ I reached out to gkrizek, but he was not going to update, so I created a new Lam
 All the requirements and issues that were in gkrizek's version still apply, check that out for the details.
 
 To use the Layer, you'll need to download it [2] and then upload to the AWS Region you want to use it in the Lambda console to Layers.
+When you create your Function, Select Runtime of: Provide your own bootsrap on Amazon Linux 2
 
 In addition, if you need to run any AWS CLI commands, you will need these variables set properly:
 
