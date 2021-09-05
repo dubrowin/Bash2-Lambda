@@ -11,4 +11,7 @@ In addition, if you need to run any AWS CLI commands, you will need these variab
     export PYTHONHOME="/opt/"
     export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/opt/lib/python/lib-dynload"
 
+It seems that the Layer is too big for GitHub to allow me to upload natively. So for now, I've placed it on Dropbox [2].
+
 [1] https://github.com/gkrizek/bash-lambda-layer
+[2] https://www.dropbox.com/s/63uewwto959kzco/Bash2.zip
